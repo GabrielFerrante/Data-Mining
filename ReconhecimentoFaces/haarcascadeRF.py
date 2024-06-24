@@ -17,7 +17,7 @@ print("Capturando as faces...")
 while(True):
     conectado, imagem = camera.read()
     imagemCinza = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
-    print(np.average(imagemCinza))
+    #print(np.average(imagemCinza))
     facesDetectadas = classificador.detectMultiScale(imagem, scaleFactor=1.5,minSize=(150,150))
    
     for (x, y, l, a) in facesDetectadas:
