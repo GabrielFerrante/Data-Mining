@@ -1,1 +1,9 @@
 *.jpg
+ReconhecimentoFaces/classificadorFisher.yml
+ReconhecimentoFaces/classificadorEigen.yml
+ReconhecimentoFaces/classificadorLBPH.yml
+ReconhecimentoFaces/classificadorLBPHYale.yml
+ReconhecimentoFaces/classificadorEigenYale.yml
+ReconhecimentoFaces/classificadorFisherYale.yml
+yalefaces
+fotos
