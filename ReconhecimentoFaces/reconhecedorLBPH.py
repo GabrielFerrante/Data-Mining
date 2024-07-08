@@ -13,7 +13,7 @@ fonte = cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 camera = cv2.VideoCapture(0)
 
-pessoas = ['gabriel', 'cae', 'jonas', 'kawes', 'vivian', 'flor','luiza', 'hugo']
+pessoas = ['gabriel', 'cae', 'jonas', 'kawes', 'vivian', 'flor','luiza', 'hugo', 'Hime']
 print(pessoas.index('gabriel'))
 
 while(True):
